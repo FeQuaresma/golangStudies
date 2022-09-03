@@ -6,10 +6,10 @@ import (
 
 func main() {
 	var (
-		num1   int
-		num2   int
+		num1   float64
+		num2   float64
 		opr    string
-		result int
+		result float64
 	)
 
 	fmt.Print("Digite o primeiro número: ")
